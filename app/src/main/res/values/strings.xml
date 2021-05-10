@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="phone_number">Phone number</string>
+    <string name="address">Address</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+    <string name="fetch_users">Fetch users</string>
+    <string name="add_user">Add user</string>
+</resources>
